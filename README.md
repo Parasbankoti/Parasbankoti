@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paras Bankoti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasbankoti&label=Profile%20views&color=0e75b6&style=flat" alt="parasbankoti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parasbankoti" alt="parasbankoti" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **bankotibankoti@gmail.com**
