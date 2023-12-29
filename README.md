@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paras Bankoti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasbankoti&label=Profile%20views&color=0e75b6&style=flat" alt="parasbankoti" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+-  I’m currently Working at **Samsung R&D Noida**
+-  I’m currently learning **ReactJS**
 
-- 📫 How to reach me **bankotibankoti@gmail.com**
+
+-  How to reach me **bankotibankoti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
