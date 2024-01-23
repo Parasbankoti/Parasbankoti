@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasbankoti&label=Profile%20views&color=0e75b6&style=flat" alt="parasbankoti" /> </p>
 
 -  I’m currently Working at **Samsung R&D Noida**
--  I’m currently learning **ReactJS**
+-  I’m currently learning **NEXTJS**
 
 
 -  How to reach me **bankotibankoti@gmail.com**
