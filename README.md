@@ -3,10 +3,10 @@
 
 -  I’m currently Working at **Samsung R&D Noida**
 -  I’m currently worknig as Backend developer.
--  Have an overall experience of 3+ years.
+-  Have an overall experience of 4+ years.
 
 
--  How to reach me **bankotibankoti@gmail.com**
+-  Check out my portfolio  **https://parasbankoti.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
