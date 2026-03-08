@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Bankoti</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasbankoti&label=Profile%20views&color=0e75b6&style=flat" alt="parasbankoti" /> </p>
 
--  I’m currently Working at **Samsung R&D Noida**
+-  I’m currently Working at **Accolite Digital**
 -  I’m currently worknig as Backend developer.
 -  Have an overall experience of 4+ years.
 
